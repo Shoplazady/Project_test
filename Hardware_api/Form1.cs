@@ -18,5 +18,15 @@ namespace Hardware_api
         }
         NetworkHelper networkHelper = new NetworkHelper();
         Users users = new Users();
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+         
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
